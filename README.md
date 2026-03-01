@@ -35,7 +35,7 @@
 I’m an Electrical & Electronics Engineering student focused on **embedded systems**, **sensor/actuator integration**, and **system bring-up**.
 I like projects that end with **field tests**, **logs**, and **measurable real-world results**.
 
-- 🎓 Akdeniz University — EEE (GPA 3.10/4.00)
+- 🎓 Akdeniz University — EEE
 - 🧠 Focus: Embedded, Robotics/Autonomy, Integration, Debugging
 - 🛠️ Hands-on: wiring, power distribution, prototyping, bring-up
 - 🌍 Antalya, Türkiye
