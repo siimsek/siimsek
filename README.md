@@ -1,105 +1,62 @@
-<!-- =========================================
- GitHub Profile README for: siimsek
-========================================== -->
-
 <div align="center">
 
-  <h1>⚡ Muhammed Ali Şimşek</h1>
+# ⚡ Muhammed Ali Şimşek
 
-  <p>
-    <strong>R&D · Embedded Systems · PLC Automation</strong>
-  </p>
+**Electrical & Electronics Engineering Student · Embedded Systems · Autonomous Systems · Hardware R&D**
 
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=720&lines=Hardware-Oriented+Embedded+Systems;STM32+%7C+ESP32+%7C+Raspberry+Pi;Pixhawk+%7C+ROS+%7C+MAVLink;From+Circuit+to+Field" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://www.siimsek.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-siimsek.com-C8FF00?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/siimsek/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-siimsek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:malisimsek17@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/siimsek" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=siimsek&style=for-the-badge" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-siimsek.com-C8FF00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.siimsek.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siimsek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siimsek/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malisimsek17@gmail.com)
 
 </div>
 
----
+## About
 
-## ⚡ About
+I build hardware-oriented systems that connect electronics, embedded software, and field validation.
 
-Electrical & Electronics Engineering student focused on **hardware-oriented systems**, **embedded integration**, and **field validation**.
-
-I build systems from **circuit to field**: prototyping, wiring, bring-up, debugging, testing, and iteration.
-
-Also known online as **Mali Şimşek** and **siimsek**.
+My work spans system architecture, PCB and power bring-up, sensor and actuator integration, low-level firmware, Linux-based companion computers, and autonomous robotics workflows.
 
 - 🎓 Akdeniz University — Electrical & Electronics Engineering
-- 🧠 Focus: Embedded Systems, Hardware R&D, Autonomous Systems
-- 🛠️ Hands-on: PCB bring-up, power distribution, sensor/actuator integration
-- 🌍 Antalya, Türkiye
+- 🧭 Focus: embedded systems, autonomous vehicles, robotics, and practical R&D
+- 🔧 Hands-on: system integration, debugging, telemetry, power distribution, and field testing
+- 📍 Antalya, Türkiye
 
----
+## Engineering focus
 
-## 🧰 Tech Stack
+- **Autonomous systems** — Pixhawk/ArduPilot, MAVLink, ROS 2, GNSS, perception, and mission control
+- **Embedded platforms** — STM32, ESP32, Raspberry Pi, Linux, C/C++, and Python
+- **Electronics integration** — PCB bring-up, sensors, motor control, power systems, UART, I²C, SPI, and CAN
+- **Industrial automation** — PLC, HMI, industrial interfaces, diagnostics, and commissioning
+
+## Technology stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,git,docker,raspberrypi" />
+[![Core](https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,raspberrypi)](https://skillicons.dev)
 
-<br/><br/>
+<br />
 
-<img src="https://img.shields.io/badge/Embedded-STM32%20%7C%20ESP32%20%7C%20Raspberry%20Pi-111?style=flat-square" />
-<img src="https://img.shields.io/badge/Robotics-Pixhawk%20%7C%20ROS%20%7C%20MAVLink-111?style=flat-square" />
-<img src="https://img.shields.io/badge/Interfaces-UART%20%7C%20I2C%20%7C%20SPI%20%7C%20CAN-111?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-PLC%20%7C%20HMI%20%7C%20Industrial%20Control-111?style=flat-square" />
+![Embedded](https://img.shields.io/badge/Embedded-STM32%20%7C%20ESP32%20%7C%20Raspberry%20Pi-111?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-Pixhawk%20%7C%20ArduPilot%20%7C%20ROS%202%20%7C%20MAVLink-111?style=flat-square)
+![Interfaces](https://img.shields.io/badge/Interfaces-UART%20%7C%20I%C2%B2C%20%7C%20SPI%20%7C%20CAN-111?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-PLC%20%7C%20HMI%20%7C%20Industrial%20Control-111?style=flat-square)
 
 </div>
 
----
+## Current direction
 
-## 🚀 Current Work
+I am focused on developing reliable autonomous and embedded systems from early prototype to field-ready implementation: selecting hardware, integrating sensors and actuators, building control and compute architecture, and validating the complete system under real conditions.
 
-### 🌊 Unmanned Surface Vehicle — Electronics & Software
-Pixhawk-based control architecture, STM32 low-level control, Raspberry Pi/ROS integration, and field-tested autonomous mission flow.
-
-### 🚗 Electric Vehicle — Electronics & Software
-Electronics/software architecture, telemetry workflow, power distribution, bring-up, diagnostics, and field debugging.
-
-### 🛩️ AI in Aviation — Team Lead & Main Software Developer
-Computer vision pipeline with YOLO, OpenCV, ROS, Docker, and deterministic offline system setup.
-
-### 🏭 Industrial R&D / Automation
-PLC-HMI systems, hardware integration, industrial interface design, and practical automation workflows.
-
----
-
-## 📈 GitHub Activity
+## GitHub activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=siimsek&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=siimsek&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
-
 <div align="center">
 
-### ⚡ From circuit to field.
-
-**Muhammed Ali Şimşek**  
-R&D · Embedded Systems · Hardware Integration
-
-🌐 [siimsek.com](https://www.siimsek.com)
+### From circuit to field.
 
 </div>
