@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Muhammed Ali Şimşek — Electronics R&amp;D · Power Electronics · Embedded Systems">
+  <title>Muhammed Ali Şimşek</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0F1E"/><stop offset=".55" stop-color="#122B52"/><stop offset="1" stop-color="#2A64B0"/></linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".42" r=".5"><stop offset="0" stop-color="#58A6FF" stop-opacity=".28"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1200" height="330"/></clipPath>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity=".07"/></pattern>
+  </defs>
+  <style>
+    .mv { animation: mv linear infinite; }
+    @keyframes mv { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    .t { animation: up 1.1s cubic-bezier(.2,.7,.2,1) backwards; }
+    @keyframes up { from { opacity:0; transform: translateY(14px); } }
+  </style>
+  <g clip-path="url(#c)">
+    <g opacity="0.3"><g class="mv" style="animation-duration:14s;animation-delay:-3s"><path d="M0,0 L0,290 C150,320 150,320 300,290 C450,260 450,260 600,290 C750,320 750,320 900,290 C1050,260 1050,260 1200,290 C1350,320 1350,320 1500,290 C1650,260 1650,260 1800,290 C1950,320 1950,320 2100,290 C2250,260 2250,260 2400,290 L2400,0 Z" fill="url(#bg)"/></g></g>
+    <g opacity="0.5"><g class="mv" style="animation-duration:10s;animation-delay:-7s"><path d="M0,0 L0,272 C150,298 150,298 300,272 C450,246 450,246 600,272 C750,298 750,298 900,272 C1050,246 1050,246 1200,272 C1350,298 1350,298 1500,272 C1650,246 1650,246 1800,272 C1950,298 1950,298 2100,272 C2250,246 2250,246 2400,272 L2400,0 Z" fill="url(#bg)"/></g></g>
+    <g class="mv" style="animation-duration:18s"><path id="main" d="M0,0 L0,254 C150,278 150,278 300,254 C450,230 450,230 600,254 C750,278 750,278 900,254 C1050,230 1050,230 1200,254 C1350,278 1350,278 1500,254 C1650,230 1650,230 1800,254 C1950,278 1950,278 2100,254 C2250,230 2250,230 2400,254 L2400,0 Z" fill="url(#bg)"/></g>
+    <g class="mv" style="animation-duration:18s"><path d="M0,0 L0,254 C150,278 150,278 300,254 C450,230 450,230 600,254 C750,278 750,278 900,254 C1050,230 1050,230 1200,254 C1350,278 1350,278 1500,254 C1650,230 1650,230 1800,254 C1950,278 1950,278 2100,254 C2250,230 2250,230 2400,254 L2400,0 Z" fill="url(#dots)"/></g>
+    <ellipse cx="600" cy="130" rx="520" ry="150" fill="url(#glow)"/>
+  </g>
+  <g class="t"><text x="600" y="132" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-1.6" fill="#FFFFFF">Muhammed Ali Şimşek</text></g>
+  <g class="t" style="animation-delay:.18s"><text x="600" y="184" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" letter-spacing=".3" fill="#C9D8EE">Electronics R&amp;D  ·  Power Electronics  ·  Embedded Systems</text></g>
+</svg>

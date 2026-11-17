@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="from circuit to field">
+  <title>from circuit to field</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0F1E"/><stop offset=".55" stop-color="#122B52"/><stop offset="1" stop-color="#2A64B0"/></linearGradient><clipPath id="c"><rect width="1200" height="150"/></clipPath></defs>
+  <style>
+    .mv { animation: mv linear infinite; }
+    @keyframes mv { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+  </style>
+  <g clip-path="url(#c)" transform="translate(0,150) scale(1,-1)">
+    <g opacity=".35"><g class="mv" style="animation-duration:14s;animation-delay:-3s"><path d="M0,0 L0,110 C150,128 150,128 300,110 C450,92 450,92 600,110 C750,128 750,128 900,110 C1050,92 1050,92 1200,110 C1350,128 1350,128 1500,110 C1650,92 1650,92 1800,110 C1950,128 1950,128 2100,110 C2250,92 2250,92 2400,110 L2400,0 Z" fill="url(#bg)"/></g></g>
+    <g opacity=".55"><g class="mv" style="animation-duration:10s;animation-delay:-6s"><path d="M0,0 L0,96 C150,111 150,111 300,96 C450,81 450,81 600,96 C750,111 750,111 900,96 C1050,81 1050,81 1200,96 C1350,111 1350,111 1500,96 C1650,81 1650,81 1800,96 C1950,111 1950,111 2100,96 C2250,81 2250,81 2400,96 L2400,0 Z" fill="url(#bg)"/></g></g>
+    <g class="mv" style="animation-duration:18s"><path d="M0,0 L0,82 C150,95 150,95 300,82 C450,69 450,69 600,82 C750,95 750,95 900,82 C1050,69 1050,69 1200,82 C1350,95 1350,95 1500,82 C1650,69 1650,69 1800,82 C1950,95 1950,95 2100,82 C2250,69 2250,69 2400,82 L2400,0 Z" fill="url(#bg)"/></g>
+  </g>
+  <text x="600" y="126" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="4" fill="#C9D8EE">FROM CIRCUIT TO FIELD</text>
+</svg>
