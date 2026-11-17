@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="316" viewBox="0 0 600 316" role="img" aria-label="ROBOÇELEBİ — TEKNOFEST ROBOLIG FIRMWARE">
+  <title>ROBOÇELEBİ — TEKNOFEST ROBOLIG FIRMWARE</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101826"/><stop offset="1" stop-color="#070B12"/></linearGradient>
+    <radialGradient id="gl" cx="0.08" cy="0.1" r="0.6"><stop offset="0" stop-color="#A78BFA" stop-opacity=".16"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient>
+    <clipPath id="f"><rect width="600" height="316" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .t { font:800 30px 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill:#E6EDF3; letter-spacing:-.5px; }
+    .s { font:600 14px ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill:#A78BFA; letter-spacing:.5px; }
+    .d { font:400 16px 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill:#8B98A9; }
+    .pill { font:600 12.5px ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill:#E6EDF3; }
+    .bd { font:700 12px ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill:#A78BFA; letter-spacing:1.2px; }
+    .sweep { animation:sw 5s ease-in-out infinite; animation-delay:3.2s; }
+    @keyframes sw { 0% { transform:translateX(-320px); } 60%,100% { transform:translateX(620px); } }
+  </style>
+  <g clip-path="url(#f)">
+    <rect width="600" height="316" fill="url(#bg)"/>
+    <rect width="600" height="316" fill="url(#gl)"/>
+    <rect class="sweep" x="0" y="0" width="300" height="3" fill="url(#edge)"/>
+  </g>
+  <rect x="1" y="1" width="598" height="314" rx="19" fill="none" stroke="#FFFFFF" stroke-opacity=".10" stroke-width="2"/>
+  <g transform="translate(28,26) scale(.78)"><rect x="18" y="26" width="44" height="32" rx="8" fill="none" stroke="#A78BFA" stroke-width="3.5"/><circle cx="31" cy="42" r="4.5" fill="#A78BFA"/><circle cx="49" cy="42" r="4.5" fill="#A78BFA"/><path d="M40 26 V16 M10 38 V48 M70 38 V48 M28 66 H52" stroke="#A78BFA" stroke-width="3.5" stroke-linecap="round"/><circle cx="40" cy="13" r="3.5" fill="#A78BFA"/></g>
+  <rect x="478" y="34" width="86" height="28" rx="14" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".5"/>
+  <text x="521" y="53" text-anchor="middle" class="bd">ROBOLIG</text>
+  <text x="36" y="128" class="t">ROBOÇELEBİ</text>
+  <text x="36" y="154" class="s">TEKNOFEST ROBOLIG FIRMWARE</text>
+  <text x="36" y="188" class="d"><tspan x="36" dy="0">Dual-controller mission robot: drive &amp; actuator safety on</tspan><tspan x="36" dy="24">Arduino Mega, RFID, OLED UI and mission state machine on</tspan><tspan x="36" dy="24">Deneyap.</tspan></text>
+  <rect x="36" y="252" width="50" height="30" rx="15" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/><text x="61" y="272" text-anchor="middle" class="pill">C++</text><rect x="95.7" y="252" width="81" height="30" rx="15" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/><text x="136" y="272" text-anchor="middle" class="pill">Arduino</text><rect x="187.0" y="252" width="58" height="30" rx="15" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/><text x="216" y="272" text-anchor="middle" class="pill">RFID</text><rect x="254.6" y="252" width="129" height="30" rx="15" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".12"/><text x="319" y="272" text-anchor="middle" class="pill">State Machine</text>
+</svg>
