@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Let’s build the next project together.">
+  <title>Let’s build the next project together.</title>
+  <style>
+    text { font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .up { animation:up 1s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes up { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:none; } }
+    
+  </style>
+  <text x="600" y="70" font-size="20" font-weight="600" fill="#6E6E73" text-anchor="middle" letter-spacing="0">Contact</text>
+  <text x="600" y="150" font-size="60" font-weight="700" fill="#1D1D1F" text-anchor="middle" letter-spacing="-1.6" style="animation-delay:0.1s">Let’s build the next</text>
+  <text x="600" y="222" font-size="60" font-weight="700" fill="#1D1D1F" text-anchor="middle" letter-spacing="-1.6" style="animation-delay:0.1s">project together.</text>
+  <text x="600" y="282" font-size="20" font-weight="400" fill="#6E6E73" text-anchor="middle" letter-spacing="0" style="animation-delay:0.2s">For projects, opportunities, and collaborations, reach me by email.</text>
+</svg>

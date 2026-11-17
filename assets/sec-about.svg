@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="About">
-  <title>About</title>
-  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#C8FF00" stop-opacity=".7"/><stop offset="1" stop-color="#C8FF00" stop-opacity="0"/></linearGradient></defs>
-  <text x="2" y="42" style="font:700 15px ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill:#C8FF00; letter-spacing:2px">01</text>
-  <text x="46" y="42" style="font:800 26px 'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill:#8B98A9; letter-spacing:3px">ABOUT</text>
-  <rect x="160" y="35" width="1040" height="2" fill="url(#l)"/>
-</svg>

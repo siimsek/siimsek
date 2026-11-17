@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="163" height="56" viewBox="0 0 163 56" role="img" aria-label="LinkedIn  ↗">
+  <title>LinkedIn  ↗</title>
+  <style>
+    text { font-family:-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .up { animation:up 1s cubic-bezier(.2,.7,.2,1) both; }
+    @keyframes up { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:none; } }
+    
+  </style>
+  <rect x="1" y="1" width="161" height="54" rx="27.0" fill="none" stroke="#30363D" stroke-width="1.5"/>
+  <text x="81.5" y="35" font-size="19" font-weight="600" fill="#F5F5F7" text-anchor="middle" letter-spacing="0">LinkedIn  ↗</text>
+</svg>
