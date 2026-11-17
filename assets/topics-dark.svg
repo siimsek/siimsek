@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="144" viewBox="0 0 1200 144" role="img" aria-label="Topics — kicad, ltspice, pcb-design, power-electronics, delta-plc, wplsoft, dopsoft-hmi, pixhawk, ardupilot, raspberry-pi, ros2, python, c, cpp, mavlink, lora, gnss, imu, lidar, nvidia-jetson, t3-gemstone-o1, esp32, git, linux">
+  <title>Topics — kicad, ltspice, pcb-design, power-electronics, delta-plc, wplsoft, dopsoft-hmi, pixhawk, ardupilot, raspberry-pi, ros2, python, c, cpp, mavlink, lora, gnss, imu, lidar, nvidia-jetson, t3-gemstone-o1, esp32, git, linux</title>
+  <style></style>
+  <rect x="1" y="2" width="73" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="38" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">kicad</text>
+  <rect x="84" y="2" width="88" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="128" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">ltspice</text>
+  <rect x="182" y="2" width="121" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="242" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">pcb-design</text>
+  <rect x="313" y="2" width="183" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="404" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">power-electronics</text>
+  <rect x="506" y="2" width="107" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="559" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">delta-plc</text>
+  <rect x="623" y="2" width="92" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="669" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">wplsoft</text>
+  <rect x="725" y="2" width="130" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="790" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">dopsoft-hmi</text>
+  <rect x="865" y="2" width="92" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="911" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">pixhawk</text>
+  <rect x="967" y="2" width="107" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="1021" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">ardupilot</text>
+  <rect x="1" y="48" width="140" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="71" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">raspberry-pi</text>
+  <rect x="151" y="48" width="68" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="185" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">ros2</text>
+  <rect x="229" y="48" width="87" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="272" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">python</text>
+  <rect x="326" y="48" width="40" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="346" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">c</text>
+  <rect x="376" y="48" width="59" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="405" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">cpp</text>
+  <rect x="444" y="48" width="88" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="488" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">mavlink</text>
+  <rect x="542" y="48" width="64" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="574" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">lora</text>
+  <rect x="616" y="48" width="68" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="650" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">gnss</text>
+  <rect x="694" y="48" width="54" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="721" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">imu</text>
+  <rect x="758" y="48" width="69" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="792" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">lidar</text>
+  <rect x="837" y="48" width="145" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="909" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">nvidia-jetson</text>
+  <rect x="991" y="48" width="163" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="1073" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">t3-gemstone-o1</text>
+  <rect x="1" y="94" width="78" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="40" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">esp32</text>
+  <rect x="89" y="94" width="54" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="116" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">git</text>
+  <rect x="153" y="94" width="69" height="36" rx="18.0" fill="#4493F8" fill-opacity=".15"/>
+  <text x="187" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#4493F8" text-anchor="middle" letter-spacing="0">linux</text>
+</svg>
