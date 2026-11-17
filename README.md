@@ -1,57 +1,35 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" /><img src="assets/hero-light.svg" width="100%" alt="siimsek — Muhammed Ali Şimşek · Electronics R&D · Power Electronics · Embedded Systems" /></picture>
-
-<a href="mailto:malisimsek17@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg" /><img src="assets/btn-mail-light.svg" height="40" alt="Email" /></picture></a>&nbsp;
-<a href="https://www.siimsek.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.svg" /><img src="assets/btn-site-light.svg" height="40" alt="siimsek.com" /></picture></a>&nbsp;
-<a href="https://www.linkedin.com/in/siimsek/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg" /><img src="assets/btn-linkedin-light.svg" height="40" alt="LinkedIn" /></picture></a>
-
-<br />
-
-```yaml
-name: Muhammed Ali Şimşek
-role: Electronics R&D · Power Electronics · Embedded Systems
-education: Electrical & Electronics Engineering @ Akdeniz University (final year)
-location: Antalya, Türkiye
-status: open to opportunities   # internships · projects · collaboration
-
-focus: [power electronics, pcb design, embedded systems, industrial automation]
-highlights:
-  - Team captain of the TEKNOFEST 2026 finalist Unmanned Surface Vehicle team
-  - Built most of the USV's electronics and software subsystems
-  - Coordinating 23 engineering projects @ Project & Engineering Society
-languages: { turkish: native, english: B1, german: A2 }
-```
-
-<br />
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-pinned-dark.svg" /><img src="assets/sec-pinned-light.svg" width="100%" alt="Pinned" /></picture>
-
-<a href="https://github.com/siimsek/PDU"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-pdu-dark.svg" /><img src="assets/pin-pdu-light.svg" width="49%" alt="PDU" /></picture></a>
-<a href="https://www.siimsek.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-usv-dark.svg" /><img src="assets/pin-usv-light.svg" width="49%" alt="CELEBI_IDA" /></picture></a>
-<a href="https://github.com/siimsek/OLEDesign"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-oledesign-dark.svg" /><img src="assets/pin-oledesign-light.svg" width="49%" alt="OLEDesign" /></picture></a>
-<a href="https://github.com/siimsek/Codelly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pin-codelly-dark.svg" /><img src="assets/pin-codelly-light.svg" width="49%" alt="Codelly" /></picture></a>
-
-<br />
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-history-dark.svg" /><img src="assets/sec-history-light.svg" width="100%" alt="Commit history" /></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg" /><img src="assets/commits-light.svg" width="100%" alt="Experience — Crystal Endüstriyel Electronics R&D Intern (Jul–Sep 2026); USV Team Captain, TEKNOFEST 2026 finalist; Project & Engineering Society Founding Member & Vice President (May 2025–present)" /></picture>
-
-<br />
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-topics-dark.svg" /><img src="assets/sec-topics-light.svg" width="100%" alt="Topics" /></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/topics-dark.svg" /><img src="assets/topics-light.svg" width="100%" alt="kicad, ltspice, pcb-design, power-electronics, delta-plc, wplsoft, dopsoft-hmi, pixhawk, ardupilot, raspberry-pi, ros2, python, c, cpp, mavlink, lora, gnss, imu, lidar, nvidia-jetson, t3-gemstone-o1, esp32, git, linux" /></picture>
-
-<br />
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-activity-dark.svg" /><img src="assets/sec-activity-light.svg" width="100%" alt="Contribution activity" /></picture>
-
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=siimsek&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=9198A1&dates=9198A1&stroke=3D444D" /><img src="https://streak-stats.demolab.com?user=siimsek&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D&ring=1A7F37&fire=1A7F37&currStreakLabel=1A7F37&currStreakNum=1F2328&sideNums=1F2328&sideLabels=59636E&dates=59636E&stroke=D1D9E0" width="70%" alt="GitHub streak" /></picture>
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siimsek/siimsek/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/siimsek/siimsek/output/snake-light.svg" width="100%" alt="Contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" width="100%" alt="Muhammed Ali Şimşek — Electronics R&D · Power Electronics · Embedded Systems" />
 </picture>
 
+I'm a final-year Electrical & Electronics Engineering student at Akdeniz University, working on power electronics, PCB design and embedded systems — connecting hardware with software and industrial automation.
+
+Captain of the TEKNOFEST 2026 finalist unmanned surface vehicle team · coordinating 23 engineering projects.
+
+[siimsek.com](https://www.siimsek.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/siimsek/) &nbsp;·&nbsp; [malisimsek17@gmail.com](mailto:malisimsek17@gmail.com)
+
+<br />
+
+### Selected work
+
+**[Modular PDU](https://github.com/siimsek/PDU)** — 6S (20–26 V) → 11 V · 7.5 A buck converter, LTspice-verified at ≈96% efficiency <br />
+**Unmanned Surface Vehicle** — TEKNOFEST 2026 finalist; Pixhawk, ROS 2 and MAVLink autonomy, tested on water <br />
+**[OLEDesign](https://github.com/siimsek/OLEDesign)** — pixel OLED/LCD design studio with live C codegen <br />
+**[Codelly](https://github.com/siimsek/Codelly)** — compile and run code in 19 languages from Node.js
+
+### Experience
+
+`2026` &nbsp; Electronics R&D Intern — **Crystal Endüstriyel** <br />
+`2025 →` &nbsp; Founding Member & Vice President — **Project & Engineering Society**
+
+### Toolbox
+
+`KiCad` `LTspice` `Power Electronics` `Delta PLC` `Pixhawk` `ArduPilot` `ROS 2` `MAVLink` `Raspberry Pi` `ESP32` `NVIDIA Jetson` `Python` `C/C++` `Git` `Linux`
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <img src="assets/footer-light.svg" width="100%" alt="from circuit to field." />
+</picture>
